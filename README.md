@@ -18,10 +18,6 @@ A cross-platform encrypted password vault for desktop and Android, with AES-256-
 encryption, Argon2id key derivation and end-to-end encrypted backup and sync.
 `Tauri 2` `React` `TypeScript`
 
-**[FitTrack](https://github.com/AeonisEnomas/FitAPP)**
-A full-stack workout tracker with an exercise library, personal records and progress views.
-`React` `Node.js` `Express`
-
 More projects, including collaborative ones in C#, C++ and an LMS with a live coding IDE,
 are on my [portfolio](https://my-cv-ten-xi.vercel.app).
 
